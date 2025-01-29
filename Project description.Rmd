@@ -1,0 +1,9 @@
+This repository contains my work on the Logistic Regression in R for Public Health course by Imperial College London (Prof. Alex Bottle) on Coursera. The course focuses on applying logistic regression to public health data, specifically predicting diabetes.
+
+The repository includes the following:
+
+# R Script (logistic regression for public health.R): This script contains the code to build, fit, and evaluate a logistic regression model using a Diabetes dataset.
+
+# Dataset (diabetes.RData): The dataset used for training the model, which includes patient information such as age, BMI, and glucose levels.
+
+# Model Fit Understanding (model fir in logistic regression.txt): A file that provides a detailed interpretation of the model fit, including the significance of each variable, odds ratios, and overall model performance.
